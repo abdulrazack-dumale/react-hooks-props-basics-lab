@@ -1,5 +1,3 @@
-import React from "react";
-
 function Links(props) {
   return (
     <div>
@@ -9,5 +7,4 @@ function Links(props) {
     </div>
   );
 }
-
-export default Links;
+export default Links
